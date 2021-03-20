@@ -30,7 +30,6 @@
     <description>SFG Brewery Beer Service</description>
 
     <name>SFG Brewery Beer Service</name>
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
